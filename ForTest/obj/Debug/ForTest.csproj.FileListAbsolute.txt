@@ -4,3 +4,9 @@ D:\Piyush Kanteliya\Misc\Practice\ForTest\ForTest\bin\Debug\ForTest.pdb
 D:\Piyush Kanteliya\Misc\Practice\ForTest\ForTest\obj\Debug\ForTest.csprojResolveAssemblyReference.cache
 D:\Piyush Kanteliya\Misc\Practice\ForTest\ForTest\obj\Debug\ForTest.exe
 D:\Piyush Kanteliya\Misc\Practice\ForTest\ForTest\obj\Debug\ForTest.pdb
+D:\Piyush Kanteliya\Misc\Practice\ForTest\GitTest\ForTest\bin\Debug\ForTest.exe.config
+D:\Piyush Kanteliya\Misc\Practice\ForTest\GitTest\ForTest\obj\Debug\ForTest.exe
+D:\Piyush Kanteliya\Misc\Practice\ForTest\GitTest\ForTest\obj\Debug\ForTest.pdb
+D:\Piyush Kanteliya\Misc\Practice\ForTest\GitTest\ForTest\bin\Debug\ForTest.exe
+D:\Piyush Kanteliya\Misc\Practice\ForTest\GitTest\ForTest\bin\Debug\ForTest.pdb
+D:\Piyush Kanteliya\Misc\Practice\ForTest\GitTest\ForTest\obj\Debug\ForTest.csprojResolveAssemblyReference.cache
